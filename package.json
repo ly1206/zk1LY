@@ -1,0 +1,27 @@
+{
+  "name": "zk1ly",
+  "version": "1.0.0",
+  "description": "zk1",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ly1206/zk1LY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ly1206/zk1LY/issues"
+  },
+  "homepage": "https://github.com/ly1206/zk1LY#readme",
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
